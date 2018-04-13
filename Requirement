@@ -1,0 +1,80 @@
+High level Requirements:
+
+T1: Account  Management  
+      
+       Registration
+	
+       Profile Management
+	
+       Asset Management(Personal Information  like pics,...)
+
+       Login  
+	
+       Forgot functionality
+
+
+T2  :  Group Management(Interface)
+
+
+       Registration
+
+       Login  
+
+       Profile Management
+	
+       Asset Management
+
+        Forgot functionality
+
+         Group activities (Adding group members,..creating events,..)
+
+
+
+T3   :  Event (Interface)[  Sports,Party,........] .. Thinking of to keep it as  interface
+
+        Create  
+
+         Invite  (Add Contacts,....
+
+         Send   (Mail, SMS)
+
+         Respone Handling
+
+         Event History(Ex: cricket--score cards....,,   party----photos,comments....
+
+         Maps,Forum,Blogs......
+
+T4:     Page Layout (UI)
+ 
+        Desgin
+
+        Calendar
+
+        Personalization (Feeds,...
+
+        Rich Functionality
+  
+
+T5  :  Mobile App
+
+
+Technologies:
+
+ Database  : Mysql ,MongoDB(If possible?)
+
+ ORM framework :  Hibernate 
+
+ Controller : Spring MVC 3.1
+
+UI :  ?  
+
+
+Things to Consider:
+  
+  search Website :  Solar from the Apache Lucene project
+
+  Maps : OpenMaps,?
+
+ Testing Framework  : Selenium
+
+ Authentication :  Apache Directory Server (LDAP)
