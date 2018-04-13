@@ -1,0 +1,37 @@
+High level Requirements:
+
+T1: Account  Management  
+      
+       Registration
+	
+       Profile Management & Asset Management(Personal Information ,,,...)
+
+       Login  
+	
+       Forgot functionality
+
+
+T2:     Page Layout (UI)
+ 
+        Desgin
+
+
+Technologies:
+
+ Database  : MS SQL ,
+ 
+Authentication :  MicroSoft AD or Apache Directory Server (LDAP), Oauth
+
+Testing Framework  : Selenium ??
+
+ Framework: .Net MVC 
+ 
+ SourceCode:  Github
+ 
+ CICD ???
+ 
+ WEB SERVER: IIS
+ 
+ CLOUD: AZURE or AWS
+ 
+UI: Angular
